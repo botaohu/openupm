@@ -1,22 +1,17 @@
-name: com.holoi.xr.holokit
+name: io.holokit
 displayName: HoloKit Unity SDK
 description: >-
-  HoloKit is an Augmented Reality(AR) headset that transforms your iPhone into a
-  powerful stereoscopic AR device. With the HoloKit Unity SDK, developers can
-  create immersive AR experiences in Unity, which can be viewed with HoloKit
-  headset.
-
-
+  HoloKit is an open-source mixed reality toolkit that turns your iPhone into an 
+  affordable optical see-through AR wearable designed for spatial creators. 
+  With the HoloKit Unity SDK, developers can create immersive AR experiences in 
+  Unity, which can be viewed with HoloKit headset.
+  
   The SDK currently provides three core features:
-
-
+  
   - Stereoscopic Rendering
-
   - Hand Tracking
-
   - Hand Gesture Recognition
-
-
+  
   Stereoscopic rendering is the central feature of the SDK, allowing for the
   display of stereo images on the iPhone screen. By attaching your iPhone to the
   HoloKit, you can enjoy a captivating AR experience. Utilizing Apple Vision
@@ -30,7 +25,7 @@ description: >-
   most ARFoundation features such as image tracking and plane detection.
   Upgrading your ARFoundation project to a stereoscopic AR project is
   straightforward with the HoloKit Unity SDK.
-repoUrl: https://github.com/holoi/holokit-unity-sdk
+repoUrl: https://github.com/holokit/holokit-unity-sdk
 parentRepoUrl: null
 licenseSpdxId: MIT
 licenseName: MIT License
@@ -40,6 +35,6 @@ topics:
 hunter: yuchenz27
 gitTagPrefix: ''
 gitTagIgnore: ''
-minVersion: ''
+minVersion: '0.5.0'
 readme: main:README.md
 createdAt: 1700374842406
